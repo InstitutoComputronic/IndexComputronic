@@ -44,6 +44,6 @@ Twitter: https://twitter.com/ComputronicPeru
 Instagram: https://www.instagram.com/computronic.pe/
 Área Virtual: https://computronicvirtual.com/
 ```
-from <img src="https://i.imgur.com/ngJCbSI.png" title="Perú"> made in <img src="https://i.imgur.com/J3Xe48F.jpg" title="Html5"> <img src="http://cdn0.bodas.com.mx/img/smileys/smiley_heart.png" title="Love"> by: <font color="green">Instituto Computronic</font>, Sitio Web <img src="https://i.imgur.com/Z4D419u.jpg" title="Computronic"> https://www.computronic.edu.pe/
+from <img src="https://i.imgur.com/ngJCbSI.png" title="Perú"> made in <img src="https://i.imgur.com/J3Xe48F.jpg" title="Html5"> with <img src="http://cdn0.bodas.com.mx/img/smileys/smiley_heart.png" title="Love"> by: <font color="green">Instituto Computronic</font>, Sitio Web <img src="https://i.imgur.com/Z4D419u.jpg" title="Computronic"> https://www.computronic.edu.pe/
 
 © 2018
