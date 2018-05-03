@@ -25,7 +25,7 @@ Por favor, vaya a [Youtube](https://www.youtube.com/).
 Preguntas, errores o sugerencias para: info@computronic.edu.pe
 
 # LICENCIA
-MenuComputronic tiene licencia.
+IndexComputronic tiene licencia.
 Ver [LICENCIA](https://github.com/InstitutoComputronic/IndexComputronic/blob/master/LICENSE) para más información.
 
 Necesitamos socios, si está interesado en ayuda o en contacto de ayuda.
